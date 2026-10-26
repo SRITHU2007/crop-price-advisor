@@ -1,0 +1,23 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Private environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test and cache files
+.pytest_cache/
+.streamlit/secrets.toml
