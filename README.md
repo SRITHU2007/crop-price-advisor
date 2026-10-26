@@ -162,6 +162,7 @@ Install the following:
 - Python 3.10 or a compatible version supported by your dependencies.
 - Git (optional, for cloning the repository).
 - Visual Studio Code or another Python editor.
+- Docker Desktop
 
 ### Step 1: Clone the Repository
 
